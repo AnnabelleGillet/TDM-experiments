@@ -10,6 +10,6 @@ The result of the experiment shows that TDM does not induce an overhead.
 Some notebooks are available to show some use cases of TDM.
 
 ### Use of the CANONICAL/POLYADIC decomposition
-The CP decomposition is used for community detection on a dataset containing the interactions between students of a primary school. You can find de dataset [here](http://www.sociopatterns.org/datasets/primary-school-temporal-network-data/) and a preview of the results [here](https://raw.githack.com/AnnabelleGillet/TDM-experiments/master/Analysis/PrimarySchoolTDM.html).
+The CP decomposition is used for community detection on a dataset containing the interactions between students of a primary school. You can find de dataset [here](http://www.sociopatterns.org/datasets/primary-school-temporal-network-data/) and a preview of the results [here](https://rawcdn.githack.com/AnnabelleGillet/TDM-experiments/c5e8d13e23e7c93cf4b55447ebd6b860fb4e21af/Analysis/PrimarySchoolTDM.html).
 
-It is also used for anomaly detection on the DARPA1998 dataset containing a network traffic over seven weeks. The dataset used is available [here](https://datalab.snu.ac.kr/bigtensor/mit_darpa.php) and a preview of the results [here](https://raw.githack.com/AnnabelleGillet/TDM-experiments/master/Analysis/DARPA1998.html).
+It is also used for anomaly detection on the DARPA1998 dataset containing a network traffic over seven weeks. The dataset used is available [here](https://datalab.snu.ac.kr/bigtensor/mit_darpa.php) and a preview of the results [here](https://rawcdn.githack.com/AnnabelleGillet/TDM-experiments/c5e8d13e23e7c93cf4b55447ebd6b860fb4e21af/Analysis/DARPA1998.html).
